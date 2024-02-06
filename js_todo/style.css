@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    boder-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

@@ -13,7 +13,7 @@ function addTask() {
 
     const deleteBtn = document.createElement('button')
     deleteBtn.textContent = 'Delete';
-    deleteBtn.classlist.add('deleteBtn');
+    deleteBtn.classList.add('deleteBtn');
     deleteBtn.addEventListener('click', () => {
         li.remove();
     });
