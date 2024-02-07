@@ -17,9 +17,9 @@ Utilize the provided empty <style> section in the <head> to write CSS rules for 
 Apply CSS styling to at least 15 items in the HTML document, including but not limited to:
 `<div>` elements and their child elements (e.g., #main h2)
 Headings (`<h1>, <h2>, <h3>`)
-Paragraphs (<p>)
-Lists (<ul>, <ol>, <li>)
-Links (<a>)
+Paragraphs (`<p>`)
+Lists (`<ul>, <ol>, <li>`)
+Links (`<a>`)
 Any other elements you find appropriate.
 
 #Notes:
